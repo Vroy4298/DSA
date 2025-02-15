@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vroy4298/DSA/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
