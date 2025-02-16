@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vroy4298/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vroy4298/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vroy4298/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vroy4298/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vroy4298/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Vroy4298/DSA/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
