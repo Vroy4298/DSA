@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vroy4298/DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vroy4298/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vroy4298/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vroy4298/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
