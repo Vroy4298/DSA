@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vroy4298/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vroy4298/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Vroy4298/DSA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Vroy4298/DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vroy4298/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vroy4298/DSA/tree/master/0035-search-insert-position) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Vroy4298/DSA/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
