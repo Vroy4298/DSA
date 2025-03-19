@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vroy4298/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Vroy4298/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Vroy4298/DSA/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vroy4298/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vroy4298/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vroy4298/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
