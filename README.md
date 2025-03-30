@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vroy4298/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vroy4298/DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Vroy4298/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Vroy4298/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Vroy4298/DSA/tree/master/2050-count-good-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vroy4298/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vroy4298/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vroy4298/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Vroy4298/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
