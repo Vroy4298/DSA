@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vroy4298/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/Vroy4298/DSA/tree/master/2050-count-good-numbers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vroy4298/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vroy4298/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vroy4298/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vroy4298/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Tree
