@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Vroy4298/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vroy4298/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/Vroy4298/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vroy4298/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3430-count-days-without-meetings](https://github.com/Vroy4298/DSA/tree/master/3430-count-days-without-meetings) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3430-count-days-without-meetings](https://github.com/Vroy4298/DSA/tree/master/3430-count-days-without-meetings) |
 ## Prefix Sum
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vroy4298/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
