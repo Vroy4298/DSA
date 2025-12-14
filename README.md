@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Vroy4298/DSA/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Vroy4298/DSA/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vroy4298/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vroy4298/DSA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Vroy4298/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vroy4298/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vroy4298/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vroy4298/DSA/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
 |  |
