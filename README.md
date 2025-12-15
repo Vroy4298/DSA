@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Vroy4298/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vroy4298/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vroy4298/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vroy4298/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Vroy4298/DSA/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Vroy4298/DSA/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vroy4298/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vroy4298/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vroy4298/DSA/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vroy4298/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
