@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vroy4298/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vroy4298/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vroy4298/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vroy4298/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vroy4298/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vroy4298/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2625-increment-submatrices-by-one](https://github.com/Vroy4298/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vroy4298/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Linked List
 |  |
 | ------- |
