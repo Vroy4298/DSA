@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vroy4298/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3430-count-days-without-meetings](https://github.com/Vroy4298/DSA/tree/master/3430-count-days-without-meetings) |
@@ -225,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vroy4298/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vroy4298/DSA/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vroy4298/DSA/tree/master/0101-symmetric-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
