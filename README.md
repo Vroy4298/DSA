@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vroy4298/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Vroy4298/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vroy4298/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Vroy4298/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -248,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
+| [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
