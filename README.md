@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vroy4298/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vroy4298/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,11 +247,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vroy4298/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vroy4298/DSA/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vroy4298/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vroy4298/DSA/tree/master/0101-symmetric-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vroy4298/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Vroy4298/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Backtracking
 |  |
