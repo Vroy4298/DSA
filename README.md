@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vroy4298/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vroy4298/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vroy4298/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Vroy4298/DSA/tree/master/0234-palindrome-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Vroy4298/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vroy4298/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vroy4298/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vroy4298/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/Vroy4298/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vroy4298/DSA/tree/master/2625-increment-submatrices-by-one) |
