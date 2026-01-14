@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3430-count-days-without-meetings](https://github.com/Vroy4298/DSA/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Vroy4298/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vroy4298/DSA/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/Vroy4298/DSA/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vroy4298/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Vroy4298/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vroy4298/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Vroy4298/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vroy4298/DSA/tree/master/3454-separate-squares-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Vroy4298/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Vroy4298/DSA/tree/master/2402-meeting-rooms-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vroy4298/DSA/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vroy4298/DSA/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
