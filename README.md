@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vroy4298/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vroy4298/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vroy4298/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vroy4298/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vroy4298/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Vroy4298/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vroy4298/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
 | ------- |
