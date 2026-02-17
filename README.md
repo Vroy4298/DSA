@@ -322,12 +322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vroy4298/DSA/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Vroy4298/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Vroy4298/DSA/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Vroy4298/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vroy4298/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vroy4298/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
