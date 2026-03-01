@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vroy4298/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vroy4298/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Vroy4298/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vroy4298/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vroy4298/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vroy4298/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Vroy4298/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vroy4298/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
