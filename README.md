@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vroy4298/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vroy4298/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vroy4298/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Vroy4298/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vroy4298/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vroy4298/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vroy4298/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vroy4298/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vroy4298/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vroy4298/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vroy4298/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vroy4298/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vroy4298/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Vroy4298/DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vroy4298/DSA/tree/master/1975-maximum-matrix-sum) |
