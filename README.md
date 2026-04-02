@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vroy4298/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Vroy4298/DSA/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vroy4298/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/Vroy4298/DSA/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Vroy4298/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vroy4298/DSA/tree/master/3454-separate-squares-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vroy4298/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vroy4298/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vroy4298/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vroy4298/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Vroy4298/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vroy4298/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vroy4298/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vroy4298/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vroy4298/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vroy4298/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
