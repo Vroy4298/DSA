@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vroy4298/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vroy4298/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vroy4298/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vroy4298/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vroy4298/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Vroy4298/DSA/tree/master/3531-count-covered-buildings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vroy4298/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vroy4298/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vroy4298/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
