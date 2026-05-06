@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Vroy4298/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vroy4298/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/Vroy4298/DSA/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vroy4298/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vroy4298/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Vroy4298/DSA/tree/master/1895-largest-magic-square) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vroy4298/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Vroy4298/DSA/tree/master/0696-count-binary-substrings) |
+| [1861-rotating-the-box](https://github.com/Vroy4298/DSA/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vroy4298/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vroy4298/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vroy4298/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/Vroy4298/DSA/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vroy4298/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Vroy4298/DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vroy4298/DSA/tree/master/1975-maximum-matrix-sum) |
