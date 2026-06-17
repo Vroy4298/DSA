@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vroy4298/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vroy4298/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vroy4298/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Vroy4298/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vroy4298/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Vroy4298/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vroy4298/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Vroy4298/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Geometry
 |  |
 | ------- |
