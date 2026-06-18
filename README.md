@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vroy4298/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vroy4298/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vroy4298/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vroy4298/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vroy4298/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Vroy4298/DSA/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
