@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vroy4298/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vroy4298/DSA/tree/master/0561-array-partition) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vroy4298/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vroy4298/DSA/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vroy4298/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Vroy4298/DSA/tree/master/0874-walking-robot-simulation) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Vroy4298/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vroy4298/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vroy4298/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vroy4298/DSA/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vroy4298/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vroy4298/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vroy4298/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Vroy4298/DSA/tree/master/0792-binary-search) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Vroy4298/DSA/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vroy4298/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Vroy4298/DSA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Vroy4298/DSA/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vroy4298/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vroy4298/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
