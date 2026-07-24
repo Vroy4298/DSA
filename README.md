@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vroy4298/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vroy4298/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Vroy4298/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Vroy4298/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vroy4298/DSA/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vroy4298/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vroy4298/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vroy4298/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Vroy4298/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Vroy4298/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Vroy4298/DSA/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vroy4298/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
