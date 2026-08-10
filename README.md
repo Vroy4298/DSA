@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Vroy4298/DSA/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vroy4298/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vroy4298/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vroy4298/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vroy4298/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vroy4298/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Vroy4298/DSA/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vroy4298/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vroy4298/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Vroy4298/DSA/tree/master/1871-jump-game-vii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vroy4298/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -613,4 +615,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vroy4298/DSA/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vroy4298/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
