@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vroy4298/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vroy4298/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Vroy4298/DSA/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/Vroy4298/DSA/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Vroy4298/DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Vroy4298/DSA/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vroy4298/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vroy4298/DSA/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Vroy4298/DSA/tree/master/0835-image-overlap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vroy4298/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vroy4298/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/Vroy4298/DSA/tree/master/1861-rotating-the-box) |
